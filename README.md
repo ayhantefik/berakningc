@@ -2,7 +2,10 @@
 
 Funktioner att implementera:
 
-* minus
-* multiplikation
-* division
-* hjälpfunktion
+|operation     |status|
+|--------------|------|
+|plus          |DONE! |
+|minus         |NYI!  |
+|multiplikation|DONE! |
+|division      |NYI!  |
+|hjälpfunktion |NYI!  |
